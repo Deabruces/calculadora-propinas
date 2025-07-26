@@ -1,8 +1,8 @@
 # React + TypeScript + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Esta plantilla proporciona una configuración básica para que React funcione en Vite con HMR y algunas reglas de ESLint.
 
-Currently, two official plugins are available:
+Actualmente, hay dos plugins oficiales disponibles:
 
 ## Calculadora de Propinas
 
@@ -78,9 +78,9 @@ calculadora-propinas/
 
 MIT
 
-## Expanding the ESLint configuration
+## Ampliación de la configuración de ESLint
 
-If you are developing a production application, we recommend updating the configuration to enable type-aware lint rules:
+Si está desarrollando una aplicación de producción, le recomendamos actualizar la configuración para habilitar reglas de pelusa que reconocen tipos:
 
 ```js
 export default tseslint.config({
